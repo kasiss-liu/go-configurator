@@ -7,6 +7,10 @@
 
 
 #### usage
+```shell
+go get -u github.com/kasiss-liu/go-configurator
+```
+
 ```go
 config := New("test", "./test/conf.ini")
 
